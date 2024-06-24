@@ -1,2 +1,2 @@
 # test_repo
-This is a test repo created fcor Coursera course.
+This is a test repo created for Coursera course.
